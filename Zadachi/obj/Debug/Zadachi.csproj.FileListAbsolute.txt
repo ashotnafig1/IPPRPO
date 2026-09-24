@@ -1,7 +1,0 @@
-D:\shedevrouchoba\oop\Zadachi\Zadachi\bin\Debug\Zadachi.exe.config
-D:\shedevrouchoba\oop\Zadachi\Zadachi\bin\Debug\Zadachi.exe
-D:\shedevrouchoba\oop\Zadachi\Zadachi\bin\Debug\Zadachi.pdb
-D:\shedevrouchoba\oop\Zadachi\Zadachi\obj\Debug\Zadachi.csproj.AssemblyReference.cache
-D:\shedevrouchoba\oop\Zadachi\Zadachi\obj\Debug\Zadachi.csproj.CoreCompileInputs.cache
-D:\shedevrouchoba\oop\Zadachi\Zadachi\obj\Debug\Zadachi.exe
-D:\shedevrouchoba\oop\Zadachi\Zadachi\obj\Debug\Zadachi.pdb
