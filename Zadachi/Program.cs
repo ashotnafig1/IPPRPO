@@ -17,7 +17,8 @@ public class Program
             Node root = new Node();
             foreach (var g in graf)
             {
-                Console.WriteLine(g.ToString())
+                Console.WriteLine(g.ToString());
+                Console.WriteLine("Novi kod");
             }
         }
     }
